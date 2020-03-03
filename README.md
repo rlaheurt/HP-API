@@ -1,5 +1,5 @@
 # HP-API
-Code to extract data from Hyperplanning for different applications
+Codes to extract data from Hyperplanning for different applications
 
 //     Copyright (C) 2020 : Raynald Laheurte
 //
